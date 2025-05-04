@@ -6,7 +6,7 @@ Problem Statement:
 Gaming System: Given target T and the scale S, develop a software to play the target-scale game. 
 
 Output Screens
-![Scree1](Source Code/Python Program/Ouput Screen/1.png)
+![a](Source-Code/Python-Program/Output-Screen/1.png)
 PACKAGES USED-> 
 
 PyGame is a set of Python modules designed for game development, providing functionality such as graphics, sound, and user input handling. It can be used to create 2D games and is widely used in the game development community.
