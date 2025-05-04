@@ -5,8 +5,8 @@ The Gaming System is a numerical puzzle game designed to challenge players to re
 Problem Statement: 
 Gaming System: Given target T and the scale S, develop a software to play the target-scale game. 
 
-METHODOLOGY
-
+Output Screens
+![Scree1](Source Code/Python Program/Ouput Screen/1.png)
 PACKAGES USED-> 
 
 PyGame is a set of Python modules designed for game development, providing functionality such as graphics, sound, and user input handling. It can be used to create 2D games and is widely used in the game development community.
@@ -30,7 +30,7 @@ Throughout the development process, the project has encountered several challeng
 To ensure the game's functionality, performance, usability, and security, a thorough testing process was conducted, including various types of testing, such as unit testing, integration testing, functional testing, performance testing, usability testing, compatibility testing, and security testing. 
 Overall, the "Gaming System" project offers an exciting and challenging game that is enjoyable for players of all ages and skill levels. Its unique features, customizable settings, and engaging gameplay make it an excellent addition to the gaming industry, providing players with a new and exciting way to enjoy their free time.
 
-Output Screens
+
 
 
 
